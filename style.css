@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#yellowOffButton {
+    background-color: #FF6347;
+}
+
+h1 {
+    font-size: 50px;
+    color: #333;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 50px;
+    color: #333;
+}
+
+button {
+    padding: 10px 20px; /* Adjusted padding for the buttons */
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 50%;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+#yellowOffButton:hover {
+    background-color: #FF3D00;
+}
+
+button:hover {
+    background-color: #45a049;
+}
